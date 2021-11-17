@@ -1,2 +1,2 @@
 # airline-reservation-system-registry-service
-Eureka server
+Eureka registry service
